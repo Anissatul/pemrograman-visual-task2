@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="kopi">
+    <file>1.png</file>
+  </qresource>
+  <qresource prefix="sosmed">
+    <file>sosmed 2.png</file>
+    <file>sosmed 1.png</file>
+  </qresource>
+</RCC>
